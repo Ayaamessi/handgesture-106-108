@@ -1,0 +1,37 @@
+.heading{
+  font-size: 14px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.object_name
+{
+  color: black;
+  font-size: 40px;
+}
+.gesture_icon
+{
+  font-size: 40px;
+}
+label
+{
+  font-size:14px;
+  color: darkgreen;
+  padding:6px;
+  border-radius:10px;
+  background-color:white;
+}
